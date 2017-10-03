@@ -1,25 +1,20 @@
 package com.newlyfly.crm_ssh.service;
 
-import com.newlyfly.crm.domain.Customer;
+import com.newlyfly.crm_ssh.domain.Customer;
 
+import java.io.Serializable;
 import java.util.List;
 
 /**
  * Created by llf in 11:55 2017/9/28
  */
 public interface CustomerService {
-
-    Customer get(Long id);
-
-    List<Customer> queryAll();
-
+    // 查询所有客户
+    List<Customer> listAll();
+    // 添加客户
     void save(Customer customer);
-
+    // 删除客户
     void delete(Customer customer);
-
-    void update(Customer customer);
-
-    Customer queryCustomerById(Long id);
-
-    List<Customer> queryPage(Integer start, Integer end);
+    // 查询单个客户
+    Customer getById(Serializable id);
 }

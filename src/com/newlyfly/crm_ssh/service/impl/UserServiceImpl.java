@@ -10,6 +10,7 @@ import org.hibernate.Transaction;
 import org.hibernate.criterion.DetachedCriteria;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Transactional;
 
 import java.io.Serializable;
 import java.util.List;
@@ -18,48 +19,19 @@ import java.util.List;
  * Created by llf in 11:55 2017/9/28
  */
 @Service
+@Transactional
 public class UserServiceImpl implements UserService {
-
     @Autowired
     private UserDao userDao;
 
     @Override
-    public void save(User user) {
-
+    public User getUserByUserNameAndPassword(String userName, String password) {
+        return userDao.getUserByUserNameAndPassword(userName, password);
     }
 
     @Override
-    public void saveOrUpdausere(User user) {
-
+    public User getUserByUserName(String userName) {
+        return userDao.getUserByUserName(userName);
     }
 
-    @Override
-    public void deleusere(User user) {
-
-    }
-
-    @Override
-    public void deleusere(Serializable id) {
-
-    }
-
-    @Override
-    public void updausere(User user) {
-
-    }
-
-    @Override
-    public User geuserById(Serializable id) {
-        return null;
-    }
-
-    @Override
-    public List<User> lisuserAll() {
-        return null;
-    }
-
-    @Override
-    public List<User> lisuserPage(DetachedCriteria deuserachedCriusereria, int suseraruser, int end) {
-        return null;
-    }
 }

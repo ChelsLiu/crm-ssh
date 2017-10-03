@@ -7,8 +7,6 @@ import org.hibernate.cfg.Configuration;
 
 import javax.persistence.metamodel.EntityType;
 
-import java.util.Map;
-
 /**
  * Created by llf in 13:17 2017/10/2
  */
