@@ -11,4 +11,7 @@ public interface UserService {
 
     // 根据用户名查询单条用户
     User getUserByUserName(String userName);
+
+    // 新增一个用于测试的用户
+//    void save(User user);
 }

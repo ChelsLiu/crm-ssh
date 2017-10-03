@@ -43,4 +43,9 @@ public class CustomerServiceImpl implements CustomerService {
     public Customer getById(Serializable id) {
         return customerDao.getById(id);
     }
+
+    @Override
+    public void update(Customer customer) {
+        customerDao.update(customer);
+    }
 }

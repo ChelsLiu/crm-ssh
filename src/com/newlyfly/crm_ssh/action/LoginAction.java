@@ -2,6 +2,7 @@ package com.newlyfly.crm_ssh.action;
 
 import com.newlyfly.crm_ssh.domain.User;
 import com.newlyfly.crm_ssh.service.UserService;
+import com.newlyfly.crm_ssh.util.MD5Utils;
 import com.opensymphony.xwork2.ActionContext;
 import com.opensymphony.xwork2.ActionSupport;
 import com.opensymphony.xwork2.ModelDriven;
@@ -36,7 +37,7 @@ public class LoginAction extends ActionSupport implements ModelDriven<User>{
             msg = "用户不存在！";
         } else if (!StringUtils.isNotBlank(model.getPassword())){
             msg = "密码不能为空！";
-        } else if (!model.getPassword().equals(user.getPassword())){
+        } else if (!MD5Utils.md5(model.getPassword()).equals(user.getPassword())){
             msg = "密码错误！";
         } else {
             ActionContext.getContext().getSession().put("user",user);

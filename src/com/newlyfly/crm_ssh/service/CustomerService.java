@@ -17,4 +17,6 @@ public interface CustomerService {
     void delete(Customer customer);
     // 查询单个客户
     Customer getById(Serializable id);
+    // 修改客户
+    void update(Customer customer);
 }

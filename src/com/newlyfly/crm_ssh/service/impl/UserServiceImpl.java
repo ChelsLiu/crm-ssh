@@ -5,6 +5,7 @@ import com.newlyfly.crm_ssh.dao.impl.UserDaoImpl;
 import com.newlyfly.crm_ssh.domain.User;
 import com.newlyfly.crm_ssh.service.UserService;
 import com.newlyfly.crm_ssh.util.HibernateUtil;
+import com.newlyfly.crm_ssh.util.MD5Utils;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.criterion.DetachedCriteria;
@@ -34,4 +35,10 @@ public class UserServiceImpl implements UserService {
         return userDao.getUserByUserName(userName);
     }
 
+//    @Override
+//    public void save(User user) {
+//        user.setUserName("1");
+//        user.setPassword(MD5Utils.md5("1"));
+//        userDao.save(user);
+//    }
 }

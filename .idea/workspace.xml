@@ -7,35 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe8407fa-9e8a-4f4e-8e09-714461960bda" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/LinkManService.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/LinkManServiceImpl.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/Main.class" afterPath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_2_11_5_2_11.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Hibernate_5_2_11_5_2_11.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_5_13.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Struts_2_2_5_13.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crm-ssh.iml" afterPath="$PROJECT_DIR$/crm-ssh.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/spring-config.xml" afterPath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/struts.xml" afterPath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/classes/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/out/artifacts/crm_ssh_war_exploded/WEB-INF/web.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crm-ssh/hibernate.cfg.xml" afterPath="$PROJECT_DIR$/out/production/crm-ssh/hibernate.cfg.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crm-ssh/spring-config.xml" afterPath="$PROJECT_DIR$/out/production/crm-ssh/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/crm-ssh/struts.xml" afterPath="$PROJECT_DIR$/out/production/crm-ssh/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/CustomerDao.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/CustomerDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/UserDao.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/CustomerDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/CustomerDaoImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/UserDaoImpl.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/UserDaoImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spring-config.xml" afterPath="$PROJECT_DIR$/src/spring-config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/struts.xml" afterPath="$PROJECT_DIR$/src/struts.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/com/newlyfly/crm_ssh/action/DemoAction.java" afterPath="$PROJECT_DIR$/src/test/com/newlyfly/crm_ssh/action/DemoAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,43 +36,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="CustomerService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java">
+      <file leaf-file-name="CustomerAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/CustomerDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="612">
+              <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CustomerServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java">
+      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+            <state relative-caret-position="432">
+              <caret line="37" column="12" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="42" selection-end-column="7" />
               <folding>
-                <element signature="e#817#818#0" expanded="true" />
-                <element signature="e#862#863#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#961#962#0" expanded="true" />
-                <element signature="e#1020#1021#0" expanded="true" />
-                <element signature="e#1064#1065#0" expanded="true" />
-                <element signature="e#1126#1127#0" expanded="true" />
-                <element signature="e#1172#1173#0" expanded="true" />
+                <element signature="e#1066#1067#0" expanded="true" />
+                <element signature="e#1124#1125#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/login.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="424">
+              <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#TD#2;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#TD#2;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#TD#2;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#SPAN#0;n#TD#2;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -102,38 +103,8 @@
       <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerAction.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/BaseDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseDaoImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="20" />
+            <state relative-caret-position="420">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -142,28 +113,40 @@
       <file leaf-file-name="spring-config.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+            <state relative-caret-position="1084">
+              <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hibernate.cfg.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <file leaf-file-name="menu.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/menu.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#TABLE#0;n#TD#0;n#TR#16;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#1;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MD5Utils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/util/MD5Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/domain/User.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CustomerDao.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/CustomerDao.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -187,6 +170,7 @@
     <findStrings>
       <find>T</find>
       <find>t</find>
+      <find>gif</find>
     </findStrings>
     <replaceStrings>
       <replace>user</replace>
@@ -228,11 +212,8 @@
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/BaseDao.java" />
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/UserDao.java" />
         <option value="$PROJECT_DIR$/src/test/com/newlyfly/crm_ssh/action/DemoAction.java" />
-        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/lib/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class" />
-        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java" />
-        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java" />
         <option value="$PROJECT_DIR$/src/spring-config.xml" />
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/interceptor/LoginInterceptor.java" />
@@ -247,6 +228,10 @@
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java" />
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java" />
+        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/util/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java" />
+        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java" />
       </list>
     </option>
   </component>
@@ -406,6 +391,13 @@
             <path>
               <item name="crm-ssh" type="b2602c69:ProjectViewProjectNode" />
               <item name="crm-ssh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="crm_ssh" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm-ssh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm-ssh" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -420,6 +412,14 @@
               <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
               <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm-ssh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm-ssh" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+              <item name="customer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -452,11 +452,11 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\src\com\newlyfly\crm_ssh\util" />
       <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\src\com\newlyfly\crm_ssh\action" />
       <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\src\com\newlyfly\crm_ssh\service\impl" />
       <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\src\com\newlyfly\crm_ssh\service" />
       <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\lib" />
-      <recent name="H:\Java_Projects\workspace_IDEA\crm-ssh\src\com\newlyfly\crm_ssh" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -641,15 +641,16 @@
       <updated>1506921435625</updated>
       <workItem from="1506921443485" duration="13542000" />
       <workItem from="1506955216039" duration="6515000" />
-      <workItem from="1506993368389" duration="12993000" />
+      <workItem from="1506993368389" duration="16067000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33050000" />
+    <option name="totallyTimeSpent" value="36124000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -673,7 +674,7 @@
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5045558" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.49544418" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25751072" sideWeight="0.49544418" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -698,23 +699,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/lib/struts2-core.jar!/org/apache/struts2/dispatcher/filter/StrutsPrepareAndExecuteFilter.class" />
-    <entry file="file://$PROJECT_DIR$/src/dao/impl/DemoDaoImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/dao/DemoDao.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/com/newlyfly/crm_ssh/service/DemoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/com/newlyfly/crm_ssh/dao/DemoDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spring-test-4.3.10.RELEASE.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1620">
@@ -773,13 +757,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/domain/Customer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/domain/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
@@ -875,14 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/annotation/AutowiredAnnotationBeanPostProcessor.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -907,10 +876,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/src/resource/struts-user.xml">
+      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/struts2-spring-plugin-2.3.24.jar!/struts-plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -933,91 +937,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/resource/struts-user.xml">
-      <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="30" column="39" lean-forward="false" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/interceptor/LoginInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/struts2-spring-plugin-2.3.24.jar!/struts-plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="e#1023#1024#0" expanded="true" />
-            <element signature="e#1081#1082#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/struts.xml">
       <provider editor-type-id="com.intellij.struts2.graph.fileEditor.Struts2GraphFileEditorProvider">
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-810">
+        <state relative-caret-position="-981">
           <caret line="3" column="68" lean-forward="false" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.dtd">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+        <state relative-caret-position="283">
+          <caret line="934" column="2" lean-forward="false" selection-start-line="934" selection-start-column="2" selection-end-line="934" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hibernate.cfg.xml">
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/customer/edit.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="-360">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/BaseDao.java">
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="702">
+          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -1038,26 +988,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/dao/impl/BaseDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="61" column="20" lean-forward="true" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/CustomerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="38" lean-forward="false" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        <state relative-caret-position="372">
+          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1066,26 +1000,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/CustomerServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+        <state relative-caret-position="732">
+          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
           <folding>
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#862#863#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#961#962#0" expanded="true" />
-            <element signature="e#1020#1021#0" expanded="true" />
-            <element signature="e#1064#1065#0" expanded="true" />
             <element signature="e#1126#1127#0" expanded="true" />
             <element signature="e#1172#1173#0" expanded="true" />
+            <element signature="e#1231#1232#0" expanded="true" />
+            <element signature="e#1275#1276#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/util/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/CustomerAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="56" lean-forward="true" selection-start-line="29" selection-start-column="56" selection-end-line="29" selection-end-column="56" />
+        <state relative-caret-position="612">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="37" column="12" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="42" selection-end-column="7" />
+          <folding>
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1124#1125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/newlyfly/crm_ssh/action/LoginAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="120" column="18" lean-forward="false" selection-start-line="120" selection-start-column="18" selection-end-line="120" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="63" column="19" lean-forward="true" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#2;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#TD#2;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#INPUT#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#TD#2;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#SPAN#0;n#TD#2;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#1;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#1;n#TBODY#0;n#TABLE#0;n#DIV#3;n#DIV#0;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1084">
+          <caret line="66" column="22" lean-forward="true" selection-start-line="66" selection-start-column="22" selection-end-line="66" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/menu.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#TABLE#0;n#TD#0;n#TR#16;n#TBODY#0;n#TABLE#0;n#TD#1;n#TR#0;n#TBODY#0;n#TABLE#1;n#FORM#0;n#BODY#0;n#HTML#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

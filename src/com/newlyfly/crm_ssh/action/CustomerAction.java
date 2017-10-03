@@ -54,13 +54,13 @@ public class CustomerAction extends ActionSupport implements ModelDriven<Custome
         //根据传过来的id先查询出当前对象
         Customer customer = customerService.getById(model.getCustId());
         //将对象放入request域
-//        ServletActionContext.getRequest().setAttribute("customer",customer);
         ActionContext.getContext().put("customer",customer);
         return "toUpdate";
     }
 
     //编辑客户
     public String update() throws Exception {
+        customerService.update(model);
         return "update";
     }
 }
